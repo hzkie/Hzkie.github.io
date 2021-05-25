@@ -1,0 +1,20 @@
+body {
+    background-image: url("../img/bg.gif") !important;
+}
+
+.container {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.alert-danger {
+    margin-top: 20em;
+    margin-left: 35%;
+    width: 25%;
+}
+
+.card {
+    margin-top: 20em;
+    margin-left: 35%;
+}
